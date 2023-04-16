@@ -59,16 +59,6 @@ The type of data needed to be collected changed
 
 
 
-# 2 Active Data Collection
-
-- ## Survey
-
-
-
-
-
-- ## Self-report of several types of the consumer behavior
-
 
 
 
