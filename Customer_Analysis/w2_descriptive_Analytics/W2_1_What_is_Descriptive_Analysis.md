@@ -47,7 +47,7 @@ The type of data needed to be collected changed
 
   
 
-<u>What kinds of questions can be asjed be surveys?:</u>
+<u>What kinds of questions can be arised be surveys?:</u>
 
 <img src="./images/image-20230414114608077.png" alt="image-20230414114608077" style="zoom:50%;" />  
 

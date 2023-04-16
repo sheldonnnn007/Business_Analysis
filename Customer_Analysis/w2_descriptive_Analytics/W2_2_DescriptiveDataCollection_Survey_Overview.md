@@ -58,17 +58,15 @@ Easy to be done by computer mediated surveys
 <img src="./images/image-20230414122435893.png" alt="image-20230414122435893" style="zoom:50%;" />
 
 1.Are able to be used to effect the future strategy
-2.not very volatile
+2.not very volatile(stable)
 
 
 
-
-
-### Pros and Cons 
+### Pros and Cons for Survey
 
 <img src="./images/image-20230414122706623.png" alt="image-20230414122706623" style="zoom:50%;" />
 
-## 
+Low cost* 
 
 
 
