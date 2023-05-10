@@ -59,9 +59,26 @@ The type of data needed to be collected changed
 
 
 
+# Summary of this week:
+
+There diff data collection which go hand in hand with different types of marketing decisions.
+
+- **Exploratory Research**:
+  Focus groups, Internet communities
+- Descriptive Research:
+  Surveys, points of sales data
+- Causal Research:
+  Correlation, causation
+
+<img src="./images/image-20230510111755951.png" alt="image-20230510111755951" style="zoom:50%;" />
+
+## It's very important to keep the managerial goal and the type of data collection in mind, they are highly synergistic
 
 
 
+Additional Reading :
 
-
-
+### Clumpy
+https://knowledge.wharton.upenn.edu/article/what-marketers-need-to-know-about-binge-buying/
+### Predicting — and Monetizing — the Lifespan of a Tweet
+https://knowledge.wharton.upenn.edu/article/predicting-and-monetizing-the-lifespan-of-a-tweet/
