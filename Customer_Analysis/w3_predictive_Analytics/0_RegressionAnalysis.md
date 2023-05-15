@@ -108,5 +108,7 @@ So i am going to next Prescriptive analytics
 
 
 
-### Test
+### Reading:
+
+**CLV**:Customer lifetime value is the present value of the future (net) cash flows associated with a particular customer.
 
