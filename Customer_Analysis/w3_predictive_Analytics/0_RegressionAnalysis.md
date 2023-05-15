@@ -67,6 +67,25 @@ Sales won't be effect only by price but advertising, promotions.
   So we'd better consider not only times of donate but "when"
   The SINGLE 0 carry a lot of weight Sharmila, it might means she no longer interested in our organisation.  People we chose Mary who this **Recency trumps Frequency** in this case
 
+### Let me piece all this togather：
+
+
+Try to understand somthing we can't observe, something behind the 0 and 1, that's driving the zeros and ones.
+
+**"Buy till you die" model**: Powerful to make <u>pretty long range projections</u> about the buying and dying we might see in this future.
+
+<u>Short tern</u>: regression is the best
+
+If we don't have a right long run exceptions for our customers. We often going to over or perhaps under invest
+
+### Implementation of the model
+<img src="./images/image-20230515110006194.png" alt="image-20230515110006194" style="zoom:30%;" />
+<img src="./images/image-20230515111608765.png" alt="image-20230515111608765" style="zoom:40%;" />
+
+General thinking: Why bob lower than we expected, why Sharmila lower.
+
+Trade-off:
+<img src="./images/image-20230515114944200.png" alt="image-20230515114944200" style="zoom:370%;" />
 
 
 
@@ -74,6 +93,20 @@ Sales won't be effect only by price but advertising, promotions.
 
 
 
+### Result and predictions
+
+Model: 
+We are looking at something that's very real, very complex something that you can't possibly capture every aspect of it, but you can only capture the key aspecture of it.
+Model is doing a pretty good job of representing sth that is really complex.
+
+#### It is perfect to give clients a good model? NO
+
+the thing is to understand the meaning behind the model, the meaning of prediction.
+So i am going to next Prescriptive analytics
 
 
+
+
+
+### Test
 
