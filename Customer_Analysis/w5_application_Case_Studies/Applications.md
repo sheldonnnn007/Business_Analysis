@@ -1,10 +1,12 @@
 ## 1.Intro:
 
-1.1 Data: how to build a right intrustructure collect the right data
+1.1 Data: how to build a right intrustructure **<u>collect</u>** the right data
 
 1.2 Always start with the basic **exploration** of the data. (When we show the idea of mine to stakeholders, the idea is supposed to come with data)
 
 1.3 Prediction
+
+- Churn model
 
 1.4 Optimisation 
 
@@ -62,4 +64,39 @@ One of the most important question ppl wanna ask: the advertising attribution pr
 
 ## 5. Radically New Data Sets in Marketing
 
- 
+
+
+
+
+## 6. The Perils of Efficiency
+
+<img src="./images/image-20230612152824643.png" alt="image-20230612152824643" style="zoom:43%;" />
+
+<img src="./images/image-20230612153110725.png" alt="image-20230612153110725" style="zoom:40%;" />
+
+
+
+## 7. Analytics Applied: Kohl's, NetFlix, AmEx and more
+
+<img src="./images/image-20230612161912529.png" alt="image-20230612161912529" style="zoom:50%;" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
